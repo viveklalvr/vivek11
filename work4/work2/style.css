@@ -1,0 +1,37 @@
+h1{
+    background-color: yellow;
+    text-align: center;
+}
+
+.div2{
+    width: 500px;
+    border-left: 5px solid green;
+    position: absolute;
+    left: 200px;
+    top: 81px;
+    padding-left: 10px;
+
+
+}
+.div1{
+    width: 180px;
+    border: 5px solid green;
+    
+    border-style: dotted ;
+    position: absolute;
+    right:5px;
+    top: 81px;
+   
+    padding: 10px;
+
+
+}
+ .div3{
+    position: absolute;
+    bottom: 5px;
+  
+ }
+.div3 p{
+    /* text-align: center; */
+    margin-left: 450px;
+}

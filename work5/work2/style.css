@@ -1,0 +1,60 @@
+
+
+
+.div1{
+    background-color: darkgray;
+    height: 450px;
+    width: 1800px;
+    margin: 5px;
+}
+
+
+
+
+
+h1{
+    background-color: red;
+    text-align: center;
+    height: 60px;
+    padding-top: 15px;
+    margin: 10px 10px;
+   
+    
+}
+.div2{ 
+    background-color: white;
+    margin: 10px;
+    
+    
+
+}
+img{
+    float:left;
+    width: 120px;
+    height: 110px;
+    padding: 10px;
+
+   
+}
+
+.div3{
+    background-color: lightgray;
+    width: 850px;
+    height: 290px;
+    margin: 10px;
+}
+.div4{
+    background-color: lightgrey;
+    position: absolute;
+    right: 118px;
+    top: 120px;
+    width: 920px;
+    height: 190px;
+}
+
+
+.div5{
+    background-color: white;
+    text-align: center;
+    margin: 10px;
+}

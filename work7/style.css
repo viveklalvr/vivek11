@@ -1,0 +1,29 @@
+
+.div1{
+    background-color: white;
+    width:500px;
+    max-height:800px;
+    border: 2px;
+    
+}
+
+.div2{
+ padding: 10px;
+ color: black;
+ top: 30px;
+
+
+}
+.div3{
+    padding: 30px;
+    color: black;
+    top: 48px;
+    position: absolute;
+    left: 200px;
+    
+
+}
+.di4{
+    padding: 30px;
+  
+}
