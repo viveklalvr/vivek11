@@ -1,0 +1,240 @@
+.div1{
+    background-color: white;
+    width: auto;
+    height: auto;
+}
+.div2{
+    background-color: black;
+    color: white;
+    width: auto;
+    height: 60px;
+}
+img{
+    height: 300px;
+    width: 250px;
+}
+.div3{
+    background-color: rgb(245, 243, 109);
+    width: 250px;
+    height: 350px;
+    padding: 5px;
+    margin: 10px;
+    position: absolute;
+    top: 120px;
+    left: 20px;
+}
+
+
+.div4{
+    background-color: rgb(158, 230, 243);
+    width: 250px;
+    height: 350px;
+    padding: 5px;
+    margin: 10px;
+    position: absolute;
+    top: 120px;
+    left: 330px;
+}
+.div5{
+    background-color: rgb(169, 203, 209);
+    width: 250px;
+    height: 350px;
+    padding: 5px;
+    margin: 10px;
+    position: absolute;
+    top: 120px;
+    left: 640px;
+}
+
+
+.div6{
+    background-color: rgb(190, 72, 36);
+    width: 250px;
+    height: 350px;
+    padding: 5px;
+    margin: 10px;
+    position: absolute;
+    top: 120px;
+    left: 960px;
+}
+.div7{
+    background-color: rgb(241, 161, 56);
+    width: 250px;
+    height: 350px;
+    padding: 5px;
+    margin: 10px;
+    position: absolute;
+    top: 120px;
+    left: 1280px;
+}
+.div8{
+    background-color: rgb(137, 240, 235);
+    width: 250px;
+    height: 350px;
+    padding: 5px;
+    margin: 10px;
+    position: absolute;
+    top: 120px;
+    left: 1620px;
+}
+.div9{
+    background-color: rgb(187, 197, 197);
+    width: 900px;
+    height: 250px;
+    padding: 50px;
+    margin: 20px;
+    position: relative;
+    top: 450px;
+    left: 10px;
+}
+.div10{
+    background-color: rgb(187, 197, 197);
+    width: 450px;
+    position: absolute;
+    padding: 20;
+    left: 40px;
+    font-size: 28px;
+    
+
+}
+.div11{
+    background-color: rgb(187, 197, 197);
+    width: 450px;
+    padding: 20;
+    position: absolute;
+    left: 520px;
+    font-size: 25px;
+}
+.div12{
+    background-color: white;
+    width: 700px;
+    height: 250px;
+    padding: 50px;
+    margin: 20px;
+    position: relative;
+    top: 80px;
+    left: 1000px;
+   
+}
+.div13{
+    text-align: justify;
+}
+.div14{
+    background-color: rgb(225, 226, 226);
+    width: 350px;
+    height: 716px;
+    padding: 10px;
+    margin: 10px;
+    position: absolute;
+    top: 950px;
+    left: 20px;
+    font-size: 25px;
+
+}
+.div15{
+    background-color: rgb(245, 243, 109);
+    width: 250px;
+    height: 350px;
+    padding: 5px;
+    margin: 10px;
+    position: absolute;
+    top: 950px;
+    left: 430px;
+
+}
+.div16{
+    background-color: rgb(158, 230, 243);
+    width: 250px;
+    height: 350px;
+    padding: 5px;
+    margin: 10px;
+    position: absolute;
+    top: 1320px;
+    left: 430px;
+
+}
+.div17{
+    background-color: rgb(158, 230, 243);
+    width: 250px;
+    height: 350px;
+    padding: 5px;
+    margin: 10px;
+    position: absolute;
+    top: 1320px;
+    left: 720px;
+
+}
+.div18{
+    background-color: rgb(245, 243, 109);
+    width: 250px;
+    height: 350px;
+    padding: 5px;
+    margin: 10px;
+    position: absolute;
+    top: 950px;
+    left: 720px;
+
+}
+.div19{
+    background-color: rgb(245, 243, 109);
+    width: 250px;
+    height: 350px;
+    padding: 5px;
+    margin: 10px;
+    position: absolute;
+    top: 950px;
+    left: 1013px;
+
+}
+.div20{
+    background-color: rgb(158, 230, 243);
+    width: 250px;
+    height: 350px;
+    padding: 5px;
+    margin: 10px;
+    position: absolute;
+    top: 1320px;
+    left: 1013px;
+}
+.div21{
+    background-color: rgb(245, 243, 109);
+    width: 250px;
+    height: 350px;
+    padding: 5px;
+    margin: 10px;
+    position: absolute;
+    top: 950px;
+    left: 1303px;
+
+}
+.div22{
+    background-color: rgb(158, 230, 243);
+    width: 250px;
+    height: 350px;
+    padding: 5px;
+    margin: 10px;
+    position: absolute;
+    top: 1320px;
+    left: 1303px;
+}
+.div23{
+    background-color: rgb(245, 243, 109);
+    width: 250px;
+    height: 350px;
+    padding: 5px;
+    margin: 10px;
+    position: absolute;
+    top: 950px;
+    left: 1610px;
+
+}
+.div24{
+    background-color: rgb(158, 230, 243);
+    width: 250px;
+    height: 350px;
+    padding: 5px;
+    margin: 10px;
+    position: absolute;
+    top: 1320px;
+    left: 1610px;
+}
